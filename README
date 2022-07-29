@@ -1,0 +1,14 @@
+Entity Framework Core
+dotnet add package Microsoft.EntityFrameworkCore
+
+Entity Framework Core Tools
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+
+Postgres
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+
+Migrations
+dotnet add package Microsoft.EntityFrameworkCore.Design
+
+JWT Token
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
